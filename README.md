@@ -1,16 +1,36 @@
-## Hi there 👋
+## bora allanmoraes672-ship-it 👋
 
-<!--
-**allanmoraes672-ship-it/allanmoraes672-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ola 👋,bora trabalhar
 
-Here are some ideas to get you started:
+🚀 **desenvolvedor de web site**  
+🇧🇷 Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left">
+  <a href="https://github.com/allanmoraes672-ship-it">
+    <img src="https://img.shields.io/badge/GitHub-allanmoraes672-ship-it-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/francisco_alan723">
+    <img src="https://img.shields.io/badge/Instagram-@francisco_alan723-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=allanmoraes672-ship-it&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanmoraes672-ship-it&layout=compact&theme=tokyonight" />
+</p>
+
+

@@ -1,6 +1,6 @@
-## bora allanmoraes672-ship-it 👋
+## ola ,eu sou estudante de desevolvimento de ti,  allanmoraes672-ship-it  
 
-# ola 👋,bora trabalhar
+# ola 👋,meu nome e francisco alan silva de morais
 
 🚀 **desenvolvedor de web site**  
 🇧🇷 Brazil

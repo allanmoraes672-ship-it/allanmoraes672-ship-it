@@ -8,9 +8,7 @@
 ---
 
 <p align="left">
-  <a href="https://github.com/allanmoraes672-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-allanmoraes672-ship-it-181717?style=for-the-badge&logo=github" />
-  </a>
+  
   <a href="https://instagram.com/francisco_alan723">
     <img src="https://img.shields.io/badge/Instagram-@francisco_alan723-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -33,5 +31,5 @@
 </p>
 <p aling="center">
   <img scr="https://streak.stats.demolab.com?user=allanmoraes672&theme=dracula" />
-  <
+  
 

@@ -4,7 +4,7 @@
 
 🚀 **desenvolvedor de web site**  
 🇧🇷 Brazil
-
+<img width://share.google/Nubqa4IM1928S4DJE"
 ---
 
 <p align="left">
@@ -27,10 +27,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=allanmoraes672-ship-it&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanmoraes672-ship-it&layout=compact&theme=tokyonight" />
+<p aling="center"><img height="170em" scr="htttps://github-readme-stats-sigma-five.vercel.app/api?
+  username=allanmoraes672&show_icons=true&the e=dracula&include_all_commits=true&count_private=true" />
+  <img height="170em"    scr="https//:github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allanmoraes672&layout=compact&langs_count=7&theme=dracula" />
 </p>
-
+<p aling="center">
+  <img scr="https://streak.stats.demolab.com?user=allanmoraes672&theme=dracula" />
+  <
 

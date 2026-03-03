@@ -4,7 +4,8 @@
 
 🚀 **desenvolvedor de web site**  
 🇧🇷 Brazil
-<img width://share.google/Nubqa4IM1928S4DJE"
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
 ---
 
 <p align="left">
